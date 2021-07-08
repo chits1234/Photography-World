@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+
+#immg {
+    margin-left:80px;
+    margin-right:20px;
+}
+
+#img4 {
+    margin-left: 10px;
+}
